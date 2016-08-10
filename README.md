@@ -8,11 +8,6 @@ Serverless architecture replaces long-running virtual machines with ephemeral co
 * [Serverless Single Page Apps: Fast, Scalable, and Available](https://www.amazon.com/gp/product/1680501496?ie=UTF8&tag=martinfowlerc-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=1680501496) (1st Edition)
 
 
-## Framework
-
-* [Serverless](https://github.com/serverless/serverless) 9k+ stars
-
-
 ## Reading
 
 * [Serverless Architectures](http://martinfowler.com/articles/serverless.html)
@@ -24,3 +19,4 @@ Serverless architecture replaces long-running virtual machines with ephemeral co
 
 * [Webtask](https://webtask.io/)
 * [Parse](http://www.parse.com/)
+* [The Serverless Framework ](https://github.com/serverless/serverless) 9k+ stars
